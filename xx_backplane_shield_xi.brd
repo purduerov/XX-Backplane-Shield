@@ -177,7 +177,7 @@
 <hole x="66.054153125" y="15.222290625" drill="3.2"/>
 <hole x="-5.065846875" y="57.132290625" drill="3.2"/>
 <hole x="66.054153125" y="55.862290625" drill="3.2"/>
-<text x="33.02" y="48.514" size="1.778" layer="25">Backplane Shield
+<text x="33.02" y="48.514" size="1.778" layer="21">Backplane Shield
 Rov XX, v1.0
 James Scholl
 Jason King
