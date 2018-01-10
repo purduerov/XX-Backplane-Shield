@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.5.0">
+<eagle version="8.4.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -274,71 +274,71 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <package name="RPI2">
 <description>Package for the Raspberry Pi 2 board created by www.elemenet14.com based on documented dimensions and board measurements.
 For more documentation, please visit http://www.raspberrypi.org/documentation/hardware/raspberrypi/</description>
-<wire x1="0" y1="53" x2="0" y2="3" width="0.127" layer="51"/>
-<wire x1="0" y1="3" x2="3" y2="0" width="0.127" layer="51" curve="90"/>
-<wire x1="3" y1="0" x2="82" y2="0" width="0.127" layer="51"/>
-<wire x1="82" y1="0" x2="85" y2="3" width="0.127" layer="51" curve="90"/>
-<wire x1="85" y1="3" x2="85" y2="53" width="0.127" layer="51"/>
-<wire x1="85" y1="53" x2="82" y2="56" width="0.127" layer="51" curve="90"/>
-<wire x1="82" y1="56" x2="3" y2="56" width="0.127" layer="51"/>
-<wire x1="3" y1="56" x2="0" y2="53" width="0.127" layer="51" curve="90"/>
+<wire x1="0" y1="53" x2="0" y2="3" width="0.127" layer="49"/>
+<wire x1="0" y1="3" x2="3" y2="0" width="0.127" layer="49" curve="90"/>
+<wire x1="3" y1="0" x2="82" y2="0" width="0.127" layer="49"/>
+<wire x1="82" y1="0" x2="85" y2="3" width="0.127" layer="49" curve="90"/>
+<wire x1="85" y1="3" x2="85" y2="53" width="0.127" layer="49"/>
+<wire x1="85" y1="53" x2="82" y2="56" width="0.127" layer="49" curve="90"/>
+<wire x1="82" y1="56" x2="3" y2="56" width="0.127" layer="49"/>
+<wire x1="3" y1="56" x2="0" y2="53" width="0.127" layer="49" curve="90"/>
 <hole x="3.5" y="3.5" drill="2.75"/>
 <hole x="61.5" y="3.5" drill="2.75"/>
 <hole x="3.5" y="52.5" drill="2.75"/>
 <hole x="61.5" y="52.5" drill="2.75"/>
-<circle x="3.5" y="3.5" radius="3.04795" width="0.127" layer="51"/>
-<circle x="61.5" y="3.5" radius="3" width="0.127" layer="51"/>
-<circle x="61.5" y="52.5" radius="3" width="0.127" layer="51"/>
-<circle x="3.5" y="52.5" radius="3" width="0.127" layer="51"/>
-<wire x1="70" y1="22" x2="87" y2="22" width="0.127" layer="51"/>
-<wire x1="87" y1="22" x2="87" y2="35" width="0.127" layer="51"/>
-<wire x1="87" y1="35" x2="70" y2="35" width="0.127" layer="51"/>
-<wire x1="70" y1="35" x2="70" y2="22" width="0.127" layer="51"/>
-<wire x1="70" y1="41" x2="87" y2="41" width="0.127" layer="51"/>
-<wire x1="87" y1="41" x2="87" y2="54" width="0.127" layer="51"/>
-<wire x1="87" y1="54" x2="70" y2="54" width="0.127" layer="51"/>
-<wire x1="70" y1="54" x2="70" y2="41" width="0.127" layer="51"/>
-<wire x1="87" y1="18.3" x2="66" y2="18.3" width="0.127" layer="51"/>
-<wire x1="66" y1="18.3" x2="66" y2="2.3" width="0.127" layer="51"/>
-<wire x1="66" y1="2.3" x2="87" y2="2.3" width="0.127" layer="51"/>
-<wire x1="87" y1="2.3" x2="87" y2="18.3" width="0.127" layer="51"/>
-<wire x1="58.239" y1="55.0018" x2="6.739" y2="55.0018" width="0.127" layer="21"/>
-<wire x1="6.739" y1="55.0018" x2="6.739" y2="51.0018" width="0.127" layer="21"/>
-<wire x1="6.739" y1="51.0018" x2="7.739" y2="50.0018" width="0.127" layer="21"/>
-<wire x1="7.739" y1="50.0018" x2="58.239" y2="50.0018" width="0.127" layer="21"/>
-<wire x1="58.239" y1="50.0018" x2="58.239" y2="55.0018" width="0.127" layer="21"/>
-<wire x1="57" y1="12.5" x2="50" y2="12.5" width="0.127" layer="51"/>
-<wire x1="50" y1="12.5" x2="50" y2="0" width="0.127" layer="51"/>
-<wire x1="50" y1="0" x2="50.5" y2="0" width="0.127" layer="51"/>
-<wire x1="50.5" y1="0" x2="50.5" y2="-2.5" width="0.127" layer="51"/>
-<wire x1="50.5" y1="-2.5" x2="56.5" y2="-2.5" width="0.127" layer="51"/>
-<wire x1="56.5" y1="-2.5" x2="56.5" y2="0" width="0.127" layer="51"/>
-<wire x1="56.5" y1="0" x2="57" y2="0" width="0.127" layer="51"/>
-<wire x1="57" y1="0" x2="57" y2="12.5" width="0.127" layer="51"/>
-<wire x1="5.6" y1="39" x2="5.6" y2="17" width="0.127" layer="51"/>
-<wire x1="5.6" y1="17" x2="2.6" y2="17" width="0.127" layer="51"/>
-<wire x1="2.6" y1="17" x2="2.6" y2="23" width="0.127" layer="51"/>
-<wire x1="2.6" y1="23" x2="1.6" y2="24" width="0.127" layer="51"/>
-<wire x1="1.6" y1="24" x2="1.6" y2="33" width="0.127" layer="51"/>
-<wire x1="1.6" y1="33" x2="2.6" y2="34" width="0.127" layer="51"/>
-<wire x1="2.6" y1="34" x2="2.6" y2="39" width="0.127" layer="51"/>
-<wire x1="2.6" y1="39" x2="5.6" y2="39" width="0.127" layer="51"/>
-<wire x1="44" y1="0.5" x2="44" y2="22.5" width="0.127" layer="51"/>
-<wire x1="44" y1="22.5" x2="47" y2="22.5" width="0.127" layer="51"/>
-<wire x1="47" y1="22.5" x2="47" y2="16.5" width="0.127" layer="51"/>
-<wire x1="47" y1="16.5" x2="48" y2="15.5" width="0.127" layer="51"/>
-<wire x1="48" y1="15.5" x2="48" y2="6.5" width="0.127" layer="51"/>
-<wire x1="48" y1="6.5" x2="47" y2="5.5" width="0.127" layer="51"/>
-<wire x1="47" y1="5.5" x2="47" y2="0.5" width="0.127" layer="51"/>
-<wire x1="47" y1="0.5" x2="44" y2="0.5" width="0.127" layer="51"/>
-<wire x1="39" y1="11" x2="24" y2="11" width="0.127" layer="51"/>
-<wire x1="24" y1="11" x2="24" y2="-1" width="0.127" layer="51"/>
-<wire x1="24" y1="-1" x2="39" y2="-1" width="0.127" layer="51"/>
-<wire x1="39" y1="-1" x2="39" y2="11" width="0.127" layer="51"/>
-<wire x1="14.6" y1="5" x2="6.6" y2="5" width="0.127" layer="51"/>
-<wire x1="6.6" y1="5" x2="6.6" y2="-1" width="0.127" layer="51"/>
-<wire x1="6.6" y1="-1" x2="14.6" y2="-1" width="0.127" layer="51"/>
-<wire x1="14.6" y1="-1" x2="14.6" y2="5" width="0.127" layer="51"/>
+<circle x="3.5" y="3.5" radius="3.04795" width="0.127" layer="49"/>
+<circle x="61.5" y="3.5" radius="3" width="0.127" layer="49"/>
+<circle x="61.5" y="52.5" radius="3" width="0.127" layer="49"/>
+<circle x="3.5" y="52.5" radius="3" width="0.127" layer="49"/>
+<wire x1="70" y1="22" x2="87" y2="22" width="0.127" layer="49"/>
+<wire x1="87" y1="22" x2="87" y2="35" width="0.127" layer="49"/>
+<wire x1="87" y1="35" x2="70" y2="35" width="0.127" layer="49"/>
+<wire x1="70" y1="35" x2="70" y2="22" width="0.127" layer="49"/>
+<wire x1="70" y1="41" x2="87" y2="41" width="0.127" layer="49"/>
+<wire x1="87" y1="41" x2="87" y2="54" width="0.127" layer="49"/>
+<wire x1="87" y1="54" x2="70" y2="54" width="0.127" layer="49"/>
+<wire x1="70" y1="54" x2="70" y2="41" width="0.127" layer="49"/>
+<wire x1="87" y1="18.3" x2="66" y2="18.3" width="0.127" layer="49"/>
+<wire x1="66" y1="18.3" x2="66" y2="2.3" width="0.127" layer="49"/>
+<wire x1="66" y1="2.3" x2="87" y2="2.3" width="0.127" layer="49"/>
+<wire x1="87" y1="2.3" x2="87" y2="18.3" width="0.127" layer="49"/>
+<wire x1="58.239" y1="55.0018" x2="6.739" y2="55.0018" width="0.127" layer="49"/>
+<wire x1="6.739" y1="55.0018" x2="6.739" y2="51.0018" width="0.127" layer="49"/>
+<wire x1="6.739" y1="51.0018" x2="7.739" y2="50.0018" width="0.127" layer="49"/>
+<wire x1="7.739" y1="50.0018" x2="58.239" y2="50.0018" width="0.127" layer="49"/>
+<wire x1="58.239" y1="50.0018" x2="58.239" y2="55.0018" width="0.127" layer="49"/>
+<wire x1="57" y1="12.5" x2="50" y2="12.5" width="0.127" layer="49"/>
+<wire x1="50" y1="12.5" x2="50" y2="0" width="0.127" layer="49"/>
+<wire x1="50" y1="0" x2="50.5" y2="0" width="0.127" layer="49"/>
+<wire x1="50.5" y1="0" x2="50.5" y2="-2.5" width="0.127" layer="49"/>
+<wire x1="50.5" y1="-2.5" x2="56.5" y2="-2.5" width="0.127" layer="49"/>
+<wire x1="56.5" y1="-2.5" x2="56.5" y2="0" width="0.127" layer="49"/>
+<wire x1="56.5" y1="0" x2="57" y2="0" width="0.127" layer="49"/>
+<wire x1="57" y1="0" x2="57" y2="12.5" width="0.127" layer="49"/>
+<wire x1="5.6" y1="39" x2="5.6" y2="17" width="0.127" layer="49"/>
+<wire x1="5.6" y1="17" x2="2.6" y2="17" width="0.127" layer="49"/>
+<wire x1="2.6" y1="17" x2="2.6" y2="23" width="0.127" layer="49"/>
+<wire x1="2.6" y1="23" x2="1.6" y2="24" width="0.127" layer="49"/>
+<wire x1="1.6" y1="24" x2="1.6" y2="33" width="0.127" layer="49"/>
+<wire x1="1.6" y1="33" x2="2.6" y2="34" width="0.127" layer="49"/>
+<wire x1="2.6" y1="34" x2="2.6" y2="39" width="0.127" layer="49"/>
+<wire x1="2.6" y1="39" x2="5.6" y2="39" width="0.127" layer="49"/>
+<wire x1="44" y1="0.5" x2="44" y2="22.5" width="0.127" layer="49"/>
+<wire x1="44" y1="22.5" x2="47" y2="22.5" width="0.127" layer="49"/>
+<wire x1="47" y1="22.5" x2="47" y2="16.5" width="0.127" layer="49"/>
+<wire x1="47" y1="16.5" x2="48" y2="15.5" width="0.127" layer="49"/>
+<wire x1="48" y1="15.5" x2="48" y2="6.5" width="0.127" layer="49"/>
+<wire x1="48" y1="6.5" x2="47" y2="5.5" width="0.127" layer="49"/>
+<wire x1="47" y1="5.5" x2="47" y2="0.5" width="0.127" layer="49"/>
+<wire x1="47" y1="0.5" x2="44" y2="0.5" width="0.127" layer="49"/>
+<wire x1="39" y1="11" x2="24" y2="11" width="0.127" layer="49"/>
+<wire x1="24" y1="11" x2="24" y2="-1" width="0.127" layer="49"/>
+<wire x1="24" y1="-1" x2="39" y2="-1" width="0.127" layer="49"/>
+<wire x1="39" y1="-1" x2="39" y2="11" width="0.127" layer="49"/>
+<wire x1="14.6" y1="5" x2="6.6" y2="5" width="0.127" layer="49"/>
+<wire x1="6.6" y1="5" x2="6.6" y2="-1" width="0.127" layer="49"/>
+<wire x1="6.6" y1="-1" x2="14.6" y2="-1" width="0.127" layer="49"/>
+<wire x1="14.6" y1="-1" x2="14.6" y2="5" width="0.127" layer="49"/>
 <pad name="P$1" x="8.37" y="51.23" drill="1.016" shape="square"/>
 <pad name="P$2" x="8.3566" y="53.7718" drill="1.016"/>
 <pad name="P$3" x="10.8966" y="51.2318" drill="1.016"/>
@@ -379,55 +379,55 @@ For more documentation, please visit http://www.raspberrypi.org/documentation/ha
 <pad name="P$38" x="54.0766" y="53.7718" drill="1.016"/>
 <pad name="P$39" x="56.6166" y="51.2318" drill="1.016"/>
 <pad name="P$40" x="56.6166" y="53.7718" drill="1.016"/>
-<text x="6" y="49" size="0.8128" layer="21">J8</text>
-<wire x1="2.6" y1="34" x2="2.6" y2="39" width="0.127" layer="21"/>
-<wire x1="2.6" y1="39" x2="5.6" y2="39" width="0.127" layer="21"/>
-<wire x1="5.6" y1="39" x2="5.6" y2="34" width="0.127" layer="21"/>
-<wire x1="2.6" y1="23" x2="2.6" y2="17" width="0.127" layer="21"/>
-<wire x1="2.6" y1="17" x2="5.6" y2="17" width="0.127" layer="21"/>
-<wire x1="5.6" y1="17" x2="5.6" y2="23" width="0.127" layer="21"/>
-<wire x1="6.6" y1="0.1" x2="6.6" y2="5" width="0.127" layer="21"/>
-<wire x1="6.6" y1="5" x2="14.6" y2="5" width="0.127" layer="21"/>
-<wire x1="14.6" y1="5" x2="14.6" y2="0.1" width="0.127" layer="21"/>
-<wire x1="24" y1="0.1" x2="24" y2="11" width="0.127" layer="21"/>
-<wire x1="24" y1="11" x2="39" y2="11" width="0.127" layer="21"/>
-<wire x1="39" y1="11" x2="39" y2="0.1" width="0.127" layer="21"/>
-<wire x1="47" y1="5.5" x2="47" y2="0.5" width="0.127" layer="21"/>
-<wire x1="47" y1="0.5" x2="44" y2="0.5" width="0.127" layer="21"/>
-<wire x1="44" y1="0.5" x2="44" y2="5.5" width="0.127" layer="21"/>
-<wire x1="47" y1="16.5" x2="47" y2="22.5" width="0.127" layer="21"/>
-<wire x1="47" y1="22.5" x2="44" y2="22.5" width="0.127" layer="21"/>
-<wire x1="44" y1="22.5" x2="44" y2="16.5" width="0.127" layer="21"/>
-<wire x1="50" y1="0.1" x2="50" y2="12.5" width="0.127" layer="21"/>
-<wire x1="50" y1="12.5" x2="57" y2="12.5" width="0.127" layer="21"/>
-<wire x1="57" y1="12.5" x2="57" y2="0.1" width="0.127" layer="21"/>
-<wire x1="84.7" y1="2.3" x2="66" y2="2.3" width="0.127" layer="21"/>
-<wire x1="66" y1="2.3" x2="66" y2="18.3" width="0.127" layer="21"/>
-<wire x1="66" y1="18.3" x2="84.8" y2="18.3" width="0.127" layer="21"/>
-<wire x1="84.8" y1="22" x2="70" y2="22" width="0.127" layer="21"/>
-<wire x1="70" y1="22" x2="70" y2="35" width="0.127" layer="21"/>
-<wire x1="70" y1="35" x2="84.8" y2="35" width="0.127" layer="21"/>
-<wire x1="84.6" y1="54" x2="70" y2="54" width="0.127" layer="21"/>
-<wire x1="70" y1="54" x2="70" y2="41" width="0.127" layer="21"/>
-<wire x1="70" y1="41" x2="84.8" y2="41" width="0.127" layer="21"/>
-<text x="5.3" y="0.2" size="0.8128" layer="21">J1</text>
-<text x="37.8" y="11.3" size="0.8128" layer="21">J6</text>
-<text x="43.7" y="20.7" size="0.8128" layer="21" rot="R90">J3</text>
-<text x="58.5" y="1.2" size="0.8128" layer="21" rot="R180">J7</text>
-<text x="84.5" y="19.4" size="0.8128" layer="21" rot="R180">J10</text>
-<text x="84.6" y="36.1" size="0.8128" layer="21" rot="R180">J11</text>
-<text x="83.8" y="55" size="0.8128" layer="21" rot="R180">J12</text>
-<text x="14" y="48" size="1.016" layer="21">GPIO</text>
-<text x="9" y="25" size="1.016" layer="21" rot="R90">DISPLAY</text>
-<text x="16.2" y="0.1" size="1.016" layer="21" rot="R90">PWR IN</text>
-<text x="41.3" y="0.4" size="1.016" layer="21" rot="R90">HDMI</text>
-<text x="43.4" y="7.9" size="1.016" layer="21" rot="R90">CAMERA</text>
-<text x="49.6" y="0.4" size="1.016" layer="21" rot="R90">A/V</text>
-<text x="83" y="2" size="1.016" layer="21" rot="R180">ETHERNET</text>
-<text x="84.5" y="21.7" size="1.016" layer="21" rot="R180">USB</text>
-<text x="81.6" y="39.6" size="1.016" layer="21">USB</text>
-<text x="6" y="37" size="0.8128" layer="21">J4</text>
-<text x="29.21" y="43.18" size="1.778" layer="21">Raspberry Pi 2 Model B V1.1</text>
+<text x="6" y="49" size="0.8128" layer="49">J8</text>
+<wire x1="2.6" y1="34" x2="2.6" y2="39" width="0.127" layer="49"/>
+<wire x1="2.6" y1="39" x2="5.6" y2="39" width="0.127" layer="49"/>
+<wire x1="5.6" y1="39" x2="5.6" y2="34" width="0.127" layer="49"/>
+<wire x1="2.6" y1="23" x2="2.6" y2="17" width="0.127" layer="49"/>
+<wire x1="2.6" y1="17" x2="5.6" y2="17" width="0.127" layer="49"/>
+<wire x1="5.6" y1="17" x2="5.6" y2="23" width="0.127" layer="49"/>
+<wire x1="6.6" y1="0.1" x2="6.6" y2="5" width="0.127" layer="49"/>
+<wire x1="6.6" y1="5" x2="14.6" y2="5" width="0.127" layer="49"/>
+<wire x1="14.6" y1="5" x2="14.6" y2="0.1" width="0.127" layer="49"/>
+<wire x1="24" y1="0.1" x2="24" y2="11" width="0.127" layer="49"/>
+<wire x1="24" y1="11" x2="39" y2="11" width="0.127" layer="49"/>
+<wire x1="39" y1="11" x2="39" y2="0.1" width="0.127" layer="49"/>
+<wire x1="47" y1="5.5" x2="47" y2="0.5" width="0.127" layer="49"/>
+<wire x1="47" y1="0.5" x2="44" y2="0.5" width="0.127" layer="49"/>
+<wire x1="44" y1="0.5" x2="44" y2="5.5" width="0.127" layer="49"/>
+<wire x1="47" y1="16.5" x2="47" y2="22.5" width="0.127" layer="49"/>
+<wire x1="47" y1="22.5" x2="44" y2="22.5" width="0.127" layer="49"/>
+<wire x1="44" y1="22.5" x2="44" y2="16.5" width="0.127" layer="49"/>
+<wire x1="50" y1="0.1" x2="50" y2="12.5" width="0.127" layer="49"/>
+<wire x1="50" y1="12.5" x2="57" y2="12.5" width="0.127" layer="49"/>
+<wire x1="57" y1="12.5" x2="57" y2="0.1" width="0.127" layer="49"/>
+<wire x1="84.7" y1="2.3" x2="66" y2="2.3" width="0.127" layer="49"/>
+<wire x1="66" y1="2.3" x2="66" y2="18.3" width="0.127" layer="49"/>
+<wire x1="66" y1="18.3" x2="84.8" y2="18.3" width="0.127" layer="49"/>
+<wire x1="84.8" y1="22" x2="70" y2="22" width="0.127" layer="49"/>
+<wire x1="70" y1="22" x2="70" y2="35" width="0.127" layer="49"/>
+<wire x1="70" y1="35" x2="84.8" y2="35" width="0.127" layer="49"/>
+<wire x1="84.6" y1="54" x2="70" y2="54" width="0.127" layer="49"/>
+<wire x1="70" y1="54" x2="70" y2="41" width="0.127" layer="49"/>
+<wire x1="70" y1="41" x2="84.8" y2="41" width="0.127" layer="49"/>
+<text x="5.3" y="0.2" size="0.8128" layer="49">J1</text>
+<text x="37.8" y="11.3" size="0.8128" layer="49">J6</text>
+<text x="43.7" y="20.7" size="0.8128" layer="49" rot="R90">J3</text>
+<text x="58.5" y="1.2" size="0.8128" layer="49" rot="R180">J7</text>
+<text x="84.5" y="19.4" size="0.8128" layer="49" rot="R180">J10</text>
+<text x="84.6" y="36.1" size="0.8128" layer="49" rot="R180">J11</text>
+<text x="83.8" y="55" size="0.8128" layer="49" rot="R180">J12</text>
+<text x="14" y="48" size="1.016" layer="49">GPIO</text>
+<text x="9" y="25" size="1.016" layer="49" rot="R90">DISPLAY</text>
+<text x="16.2" y="0.1" size="1.016" layer="49" rot="R90">PWR IN</text>
+<text x="41.3" y="0.4" size="1.016" layer="49" rot="R90">HDMI</text>
+<text x="43.4" y="7.9" size="1.016" layer="49" rot="R90">CAMERA</text>
+<text x="49.6" y="0.4" size="1.016" layer="49" rot="R90">A/V</text>
+<text x="83" y="2" size="1.016" layer="49" rot="R180">ETHERNET</text>
+<text x="84.5" y="21.7" size="1.016" layer="49" rot="R180">USB</text>
+<text x="81.6" y="39.6" size="1.016" layer="49">USB</text>
+<text x="6" y="37" size="0.8128" layer="49">J4</text>
+<text x="29.21" y="43.18" size="1.778" layer="49">Raspberry Pi 2 Model B V1.1</text>
 </package>
 </packages>
 <symbols>
